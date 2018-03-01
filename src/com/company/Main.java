@@ -6,5 +6,6 @@ public class Main {
         System.out.println("good commit");
         System.out.println("good commit1");
         System.out.println("good commit2");
+        System.out.println("bad commit2");
     }
 }
